@@ -69,7 +69,4 @@ string[] GenerateNewArray(string[] workArray)
     }
     return resultArray;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> 3315737b79b3411ee8a11097019c72bf913449dc
