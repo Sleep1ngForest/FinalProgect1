@@ -1,8 +1,3 @@
-// [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
-// [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
-// [“Russia”, “Denmark”, “Kazan”] → []
-
-
 
 string[] workArray = FillArray();
 string[] resultArray = GenerateNewArray(workArray);
@@ -64,3 +59,7 @@ string[] GenerateNewArray(string[] workArray)
     }
     return resultArray;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3315737b79b3411ee8a11097019c72bf913449dc
